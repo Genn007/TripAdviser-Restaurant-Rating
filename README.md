@@ -4,6 +4,9 @@
 Содержание файлов: 
 
 main_task_new.csv - исходные данные 
+
 Cities.csv - дополнительные данные 
+
 TA_model06.ipynb - рабочий блокнот 
+
 sf-tripadvisor-rating-gbooth.ipynb - блокнот с кагл
