@@ -1,2 +1,3 @@
 # TripAdviser-Restaurant-Rating
-Training code for analysis of TA Rating data
+2021-10-17   Training code for analysis of TA Rating data.
+
